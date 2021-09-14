@@ -1,0 +1,9 @@
+C:\Users\Dominick Wliey\git\MacroHard_Paint\bin\Debug\MacroHard_Paint.exe.config
+C:\Users\Dominick Wliey\git\MacroHard_Paint\bin\Debug\MacroHard_Paint.exe
+C:\Users\Dominick Wliey\git\MacroHard_Paint\bin\Debug\MacroHard_Paint.pdb
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.csprojAssemblyReference.cache
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.Canvas.resources
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.Properties.Resources.resources
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.csproj.GenerateResource.cache
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.exe
+C:\Users\Dominick Wliey\git\MacroHard_Paint\obj\Debug\MacroHard_Paint.pdb
